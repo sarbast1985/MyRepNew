@@ -135,12 +135,8 @@ http://ott.udptv.net/stream/iptv/rockentertainment/master.m3u8?u=civ3&p=62278b4f
 https://ott.djdoolky76.net/stream/iptv/showcasemovies/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 #EXTINF:-1,Animax
 http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
-#EXTINF:-1,Astro Cartoon Network
-http://ott.djdoolky76.net/stream/iptv/astrocartoonnetwork/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 #EXTINF:-1,Cartoon Network
 http://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
-#EXTINF:-1,Astro Dreamworks
-http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 #EXTINF:-1,Dreamworks
 http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 #EXTINF:-1,Disney Channel
