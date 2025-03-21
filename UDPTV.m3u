@@ -35,7 +35,6 @@ https://ott-sg.djdoolky76.net/stream/udptv/arenasport10croatia/master.m3u8?u=udp
 https://ott.djdoolky76.net/stream/astro/astrosportsplus/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
 #EXTINF:-1,Astro Sports UHD
 https://ott.djdoolky76.net/stream/astro/astrosportsuhd/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
-
 #EXTINF:-1,Blast Sports
 http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
 #EXTINF:-1,DAZN 1
@@ -134,3 +133,19 @@ https://ott-it.djdoolky76.net/stream/sky/skycalcio9/master.m3u8?u=udpteam@djdool
 http://ott.udptv.net/stream/iptv/spotv/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
 #EXTINF:-1,SPO TV 2
 http://ott.udptv.net/stream/iptv/spo2tv2/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,Sport 1
+https://ott-sg.djdoolky76.net/stream/udptv/sport1/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,Sport 4
+https://ott-sg.djdoolky76.net/stream/udptv/sport4/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,Sport 1 Baltic
+https://ott-sg.djdoolky76.net/stream/udptv/sport1baltic/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,Sport 2 Baltic
+https://ott-sg.djdoolky76.net/stream/udptv/sport2baltic/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,TNT Sports 1
+https://ott.udptv.net/stream/iptv/tntsports1/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,TNT Sports 2
+https://ott.udptv.net/stream/iptv/tntsports2/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,TNT Sports 3
+https://ott.udptv.net/stream/iptv/tntsports3/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+#EXTINF:-1,TNT Sports 4
+https://ott.udptv.net/stream/iptv/tntsports4/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
