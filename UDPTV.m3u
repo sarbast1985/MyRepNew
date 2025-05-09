@@ -152,3 +152,11 @@ https://ott.udptv.net/stream/iptv/tntsports4/master.m3u8?u=udpteam@djdoolky76&p=
 
 #EXTINF:-1,Sky Max UK
 https://ott-s2.udptv.net/stream/skyuk/skymax/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1,Sky Cinema Thriller UK
+https://ott-s2.udptv.net/stream/skyuk/skycinemathriller/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 Sky Cinema Animation UK
+https://ott-s2.udptv.net/stream/skyuk/skycinemaanimation/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1,Sky Kids UK
+https://ott-s2.udptv.net/stream/skyuk/skykids/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1,Sky F1 UHD UK
+https://ott-s2.udptv.net/stream/skyuk/skysportsf1uhd/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
