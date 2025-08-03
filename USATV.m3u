@@ -1,0 +1,532 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="USA Networks",ABC EAST
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="USA Networks",CBS EAST
+https://fl3.moveonjoy.com/CBSEAST/index.m3u8
+
+#EXTINF:-1 group-title="USA Networks",FOX EAST
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 group-title="USA Networks",NBC EAST
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="USA Networks",Telemundo Florida
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 group-title="USA Networks",WGN
+https://fl3.moveonjoy.com/WGN/index.m3u8
+
+#EXTINF:-1 group-title="News",BBC WORLD NEWS
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="News",BLOOMBERG
+https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
+
+#EXTINF:-1 group-title="News",C-SPAN
+https://fl3.moveonjoy.com/C-SPAN/index.m3u8
+
+#EXTINF:-1 group-title="News",CNBC
+https://fl3.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="News",CNN
+https://a1xs.vip/300007
+
+#EXTINF:-1 group-title="News",COURT TV
+https://fl3.moveonjoy.com/COURT_TV/index.m3u8
+
+#EXTINF:-1 group-title="News",FOX Business Network
+https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+
+#EXTINF:-1 group-title="News",FOX NEWS CHANNEL
+https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="News",HLN
+https://fl1.moveonjoy.com/HLN/index.m3u8
+
+#EXTINF:-1 group-title="News",MSNBC
+https://a1xs.vip/300008
+
+#EXTINF:-1 group-title="News",NEWS NATION
+https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 group-title="News",NEWSMAX
+https://a1xs.vip/300012
+
+#EXTINF:-1 group-title="News",THE WEATHER CHANNEL
+https://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="News",Unknown News Stream
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",ACC NETWORK
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Band Sports
+https://a1xs.vip/40000048
+
+#EXTINF:-1 group-title="Sports",BEIN SPORTS
+https://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 group-title="Sports",BIG TEN NETWORK
+https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",BOX NATION
+https://a1xs.vip/4000009
+
+#EXTINF:-1 group-title="Sports",CBS SPORTS NETWORK
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Combate
+https://a1xs.vip/4000049
+
+#EXTINF:-1 group-title="Sports",ESPN
+https://fl1.moveonjoy.com/Espn/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 2
+https://fl3.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 2 BRASIL
+https://a1xs.vip/4000050
+
+#EXTINF:-1 group-title="Sports",ESPN 3 BRASIL
+https://a1xs.vip/4000051
+
+#EXTINF:-1 group-title="Sports",ESPN 4 BRASIL
+https://a1xs.vip/4000056
+
+#EXTINF:-1 group-title="Sports",ESPN BRASIL
+https://a1xs.vip/40000046
+
+#EXTINF:-1 group-title="Sports",ESPN EXTRA BRASIL
+https://a1xs.vip/4000053
+
+#EXTINF:-1 group-title="Sports",ESPN NEWS
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN U
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 group-title="Sports",FIGHTBOX HD
+https://a1xs.vip/40000022
+
+#EXTINF:-1 group-title="Sports",FOX Sports 1
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 BRASIL
+https://a1xs.vip/4000057
+
+#EXTINF:-1 group-title="Sports",FOX SPORTS BRASIL
+https://a1xs.vip/4000054
+
+#EXTINF:-1 group-title="Sports",MARQUEE SPORTS NETWORK
+https://fl5.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",MLB NETWORK
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",MSG
+https://fl3.moveonjoy.com/MSG/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NBA TV BRASIL
+https://a1xs.vip/400050
+
+#EXTINF:-1 group-title="Sports",NBC SPORTS BOSTON
+https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NFL NETWORK
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NFL NETWORK BRASIL
+https://a1xs.vip/400051
+
+#EXTINF:-1 group-title="Sports",NFL Network USA
+https://a1xs.vip/4000004
+
+#EXTINF:-1 group-title="Sports",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NHL NETWORK
+https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",OUTSIDE TV
+https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sports",PFC
+https://a1xs.vip/40000060
+
+#EXTINF:-1 group-title="Sports",Pursuit Channel
+https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SEC NETWORK
+https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SNY
+https://fl3.moveonjoy.com/SNY/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORT TV 2 BRASIL
+https://a1xs.vip/400052
+
+#EXTINF:-1 group-title="Sports",SPORT TV 3 BRASIL
+https://a1xs.vip/400053
+
+#EXTINF:-1 group-title="Sports",SPORTSMAN CHANNEL
+https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TENNIS CHANNEL
+https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Sports",UFC FIGHT PASS 1
+https://a1xs.vip/40000042
+
+#EXTINF:-1 group-title="Sports",UFC FIGHT PASS 2
+https://a1xs.vip/40000043
+
+#EXTINF:-1 group-title="Sports",USA GOLTV
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+
+#EXTINF:-1 group-title="Sports",USA MAV TV
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sports",WORLD FISHING NETWORK
+https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Sports",YES NETWORK
+https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",AMC
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Aspire
+https://fl3.moveonjoy.com/Aspire/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",BBC AMERICA
+https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",BET EAST
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",BOUNCE TV
+https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",BRAVO
+https://fl3.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Buzzr
+https://fl3.moveonjoy.com/Buzzr/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",CHARGE
+https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Cleo TV
+https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",CMT
+https://fl3.moveonjoy.com/CMT/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Comedy Central
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",COMET
+https://fl3.moveonjoy.com/COMET/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",COZI TV
+https://fl3.moveonjoy.com/COZI_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",E!
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",FREEFORM
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",FX
+https://fl1.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",FXM
+https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",FXX
+https://fl3.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",GET TV
+https://fl3.moveonjoy.com/GET_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",GRIT TV
+https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",GSN
+Https://streamer1.nexgen.bz/GSN/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",INSP
+https://fl3.moveonjoy.com/INSP/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ION Plus
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ION TV
+https://fl3.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Laff
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+
+#EXTINF:-1 group-title="Entertainment",LIFETIME
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",LMN
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ME TV
+https://fl3.moveonjoy.com/ME_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Ovation
+https://fl3.moveonjoy.com/Ovation/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",OXYGEN
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",PARAMOUNT NETWORK
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",REELZ
+https://fl3.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Start Tv
+https://fl3.moveonjoy.com/Start_Tv/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SUNDANCE
+https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SYFY
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",TBS
+https://fl1.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",TCM
+https://fl1.moveonjoy.com/TCM/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",TNT
+https://fl1.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",TRU TV
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",TV ONE
+https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Up Tv
+https://fl3.moveonjoy.com/Up_Tv/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",USA NETWORK
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",VICELAND
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",WE TV
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+
+#EXTINF:-1 group-title="Movies",5STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
+#EXTINF:-1 group-title="Movies",CINEMAX
+https://fl3.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 group-title="Movies",EPIX
+https://fl3.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HALLMARK CHANNEL
+https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HALLMARK DRAMA
+https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HALLMARK MOVIES & MYSTERIES
+https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HBO
+https://fl3.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HBO 2
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HBO COMEDY
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HBO FAMILY
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HBO SIGNATURE
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+
+#EXTINF:-1 group-title="Movies",HBO ZONE
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 group-title="Movies",MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+#EXTINF:-1 group-title="Movies",OUTER MAX
+https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+
+#EXTINF:-1 group-title="Movies",SHOWTIME 2
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 group-title="Movies",SHOWTIME NEXT
+https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 group-title="Movies",SHOWTIME WEST
+https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 group-title="Movies",SHOWTIME WOMEN
+https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 group-title="Movies",STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-1 group-title="Movies",STARZ COMEDY
+https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 group-title="Movies",STARZ WEST
+https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+
+#EXTINF:-1 group-title="Movies",THRILLERMAX
+http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",BET HER
+https://fl3.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",COOKING CHANNEL
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",Destination America
+https://fl1.moveonjoy.com/Destination_America/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",DISCOVERY LIFE
+https://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",DIY
+https://fl3.moveonjoy.com/DIY/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",FOOD NETWORK
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",FYI
+https://fl3.moveonjoy.com/FYI/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",HGTV
+https://fl1.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",OUTDOOR CHANNEL
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",OWN
+https://fl1.moveonjoy.com/OWN/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",QVC
+https://fl3.moveonjoy.com/QVC/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",TLC
+https://fl1.moveonjoy.com/TLC/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle & Reality",Travel Channel
+https://fl3.moveonjoy.com/Travel_Channel/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",BOOMERANG
+https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",CARTOON NETWORK
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",DISCOVERY FAMILY CHANNEL
+https://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",DISNEY
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",DISNEY JR
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",DISNEY XD
+https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",NICK JR
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",NICKELODEON
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",NICKTOONS
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",TEEN NICK
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids & Family",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",Animal Planet
+https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",Crime and Investigation Network
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",Discovery Science
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",HISTORY
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",INVESTIGATION DISCOVERY
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",MOTOR TREND
+https://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",National Geographic
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",Nat Geo Wild
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 group-title="Documentary & Science",SMITHSONIAN CHANNEL
+https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Music",FUSE
+https://fl3.moveonjoy.com/FUSE/index.m3u8
+
+#EXTINF:-1 group-title="Music",MTV
+https://fl3.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 group-title="Music",MTV 2
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 group-title="Music",MTV CLASSIC
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 group-title="Music",MTV LIVE
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 group-title="Music",MTV U
+https://fl3.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 group-title="Music",NICK MUSIC
+https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 group-title="Music",REVOLT
+https://fl3.moveonjoy.com/REVOLT/index.m3u8
+
+#EXTINF:-1 group-title="Music",VH1
+https://fl3.moveonjoy.com/VH1/index.m3u8
