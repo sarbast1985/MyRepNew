@@ -1,0 +1,225 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml" tvg-shift="8"
+#EXTINF:-1 tvg-id="171855" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="9206" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="464857" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png" group-title="News",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="465021" tvg-name="CNN International" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="464889" tvg-name="MS NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/2560px-MS_NOW_logo.svg.png" group-title="News",MS NOW
+http://cord-cutter.net:8080/81945791/05013455/21376
+#EXTINF:-1 tvg-id="464791" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/500px-CNBC_2025.svg.png" group-title="News",CNBC
+http://143.244.60.30/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CityNews Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CityNews_Channel.PNG/500px-CityNews_Channel.PNG" group-title="News",CityNews Channel
+http://cord-cutter.net:8080/81945791/05013455/216100
+#EXTINF:-1 tvg-id="468311" tvg-name="CBS New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/500px-CBS_New_York_logo.svg.png" group-title="Entertainment",CBS New York
+http://supersonictv.live:8080/live/923429/481252/71677.m3u8
+#EXTINF:-1 tvg-name="CBS Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBS_LA_logo.svg/500px-CBS_LA_logo.svg.png" group-title="Entertainment",CBS Los Angeles
+http://cord-cutter.net:8080/81945791/05013455/121234
+#EXTINF:-1 tvg-id="467015" tvg-name="NBC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/500px-WNBC_2023.svg.png" group-title="Entertainment",NBC New York
+http://supersonictv.live:8080/live/923429/481252/71679.m3u8
+#EXTINF:-1 tvg-name="NBC Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/500px-KNBC_2023.svg.png" group-title="Entertainment",NBC Los Angeles
+http://cord-cutter.net:8080/81945791/05013455/120656
+#EXTINF:-1 tvg-id="467679" tvg-name="ABC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Entertainment",ABC New York
+http://supersonictv.live:8080/live/923429/481252/71676.m3u8
+#EXTINF:-1 tvg-name="ABC Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg/500px-KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg.png" group-title="Entertainment",ABC Los Angeles
+http://cord-cutter.net:8080/81945791/05013455/120857
+#EXTINF:-1 tvg-id="468913" tvg-name="FOX New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/500px-Fts-new-york-a.svg.png" group-title="Entertainment",FOX New York
+http://cord-cutter.net:8080/bn80NG/909467/120750
+#EXTINF:-1 tvg-name="FOX Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/500px-Fts-los-angeles-a.svg.png" group-title="Entertainment",FOX Los Angeles
+http://kstv.us:8080/live/Purn3542/38791114838/48788.ts
+#EXTINF:-1 tvg-id="12382" tvg-name="BBC One" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="Entertainment",BBC One
+http://cord-cutter.net:8080/81945791/05013455/53649
+#EXTINF:-1 tvg-id="12086" tvg-name="itv1" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="Entertainment",itv1
+https://a1xs.vip/1000011
+#EXTINF:-1 tvg-id="12203" tvg-name="itv2" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" group-title="Entertainment",itv2
+https://a1xs.vip/1000012
+#EXTINF:-1 tvg-id="12274" tvg-name="itv3" tvg-logo="https://i.ibb.co/fHbyKrt/ITV3.png" group-title="Entertainment",itv3
+https://a1xs.vip/1000013
+#EXTINF:-1 tvg-id="12271" tvg-name="itv4" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="Entertainment",itv4
+https://a1xs.vip/1000014
+#EXTINF:-1 tvg-id="464745" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="Movies",HBO
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/2048px-HBO_Hits_Logo.svg.png" group-title="Movies",HBO Hits
+http://cord-cutter.net:8080/81945791/05013455/9816
+#EXTINF:-1 tvg-name="HBO Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/1200px-HBO_Drama_Logo.svg.png" group-title="Movies",HBO Drama
+http://cord-cutter.net:8080/81945791/05013455/9266
+#EXTINF:-1 tvg-name="HBO Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/1024px-HBO_Movies_Logo.svg.png" group-title="Movies",HBO Movies
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="HBO Comedy" tvg-logo="https://sharewithyou.dpdns.org/HBO_Comedy_Plex_Logo_bw_1.png?verify=b2ffb42a152aba8692f6daef888b1975a7cf24e321a91658cdb6b933b4b9a71d" group-title="Movies",HBO Comedy
+http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="465332" tvg-name="Paramount+ with Showtime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Paramount%2B_with_Showtime.svg/revision/latest/scale-to-width-down/284?cb=20240116163723" group-title="Movies",Paramount+ with Showtime
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/2560px-Showtime_2.svg.png" group-title="Movies",Showtime 2
+http://143.244.60.30/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/1280px-Showtime_Extreme.svg.png" group-title="Movies",Showtime Extreme
+http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Next" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1280px-Showtime_Next.svg.png" group-title="Movies",Showtime Next
+http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Women" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/64/Showtime_Women_2022.svg/revision/latest/scale-to-width-down/985?cb=20240424131729" group-title="Movies",Showtime Women
+http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Family Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/2560px-Showtime_Family_Zone.svg.png" group-title="Movies",Showtime Family Zone
+http://supersonictv.live:8080/live/923429/481252/22913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Showtime_Showcase_alt.svg/revision/latest/scale-to-width-down/250?cb=20250213162307" group-title="Movies",Showtime Showcase
+http://supersonictv.live:8080/live/923429/481252/22915.m3u8
+#EXTINF:-1 tvg-id="464975" tvg-name="Starz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="Movies",Starz
+http://143.244.60.30/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png" group-title="Movies",Starz Cinema
+http://supersonictv.live:8080/live/923429/481252/22920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/250px-Starz_Comedy_Logo_2022.svg.png" group-title="Movies",Starz Comedy
+http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/250px-Starz_Edge_Logo_2022.svg.png" group-title="Movies",Starz Edge
+http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz in Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/250px-Starz_in_Black_Logo_2022.svg.png" group-title="Movies",Starz in Black
+http://supersonictv.live:8080/live/923429/481252/22923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/250px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="Movies",Starz Kids & Family
+http://supersonictv.live:8080/live/923429/481252/22924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/250px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Movies",Starz Encore Action
+http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/250px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Movies",Starz Encore Black
+http://supersonictv.live:8080/live/923429/481252/22928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/250px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Movies",Starz Encore Classic
+http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/250px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Movies",Starz Encore Family
+http://supersonictv.live:8080/live/923429/481252/22930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/250px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Movies",Starz Encore Suspense
+http://supersonictv.live:8080/live/923429/481252/22931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/250px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Movies",Starz Encore Westerns
+http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="464917" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="Movies",Cinemax
+http://143.244.60.30/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax Hits" tvg-logo="https://sharewithyou.dpdns.org/Cinemax_Hits_Plex_Logo_bw.png?verify=8f2b80dae6931be245d31c1f3d39493c5ea2ed759d5c57052a3fcadfa4166a94" group-title="Movies",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax Action" tvg-logo="https://sharewithyou.dpdns.org/Cinemax_Action_Plex_Logo_bw.png?verify=321a19f15aafe8b816c0b6f5d4e5518aa463cedf124508a9a88d669b781c2e41" group-title="Movies",Cinemax Action
+http://supersonictv.live:8080/live/923429/481252/22881.m3u8
+#EXTINF:-1 tvg-name="Cinemax Classics" tvg-logo="https://brandlogos.net/wp-content/uploads/2025/09/cinemax_classics-logo_brandlogos.net_nehp2.png" group-title="Movies",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="465261" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movies",MGM+
+http://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ Marquee" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movies",MGM+ Marquee
+http://fl1.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ Drive-In" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Movies",MGM+ Drive-In
+http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movies",MGM+ Hits
+http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="470845" tvg-name="Crave 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movies",Crave 1
+http://cord-cutter.net:8080/bn80NG/909467/57309
+#EXTINF:-1 tvg-id="470403" tvg-name="Crave 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movies",Crave 2
+http://cord-cutter.net:8080/bn80NG/909467/57310
+#EXTINF:-1 tvg-id="470592" tvg-name="Crave 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="Movies",Crave 3
+http://cord-cutter.net:8080/bn80NG/909467/57322
+#EXTINF:-1 tvg-id="" tvg-name="Crave 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movies",Crave 4
+http://cord-cutter.net:8080/bn80NG/909467/57311
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/sky-atlantic.png" group-title="Movies",Sky Atlantic
+https://a1xs.vip/210001
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sky_Cinema_Premiere_2024_logo.svg/250px-Sky_Cinema_Premiere_2024_logo.svg.png" group-title="Movies",Sky Cinema Premier
+http://cord-cutter.net:8080/81945791/05013455/35256
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sky_Cinema_Hits_2020.svg/250px-Sky_Cinema_Hits_2020.svg.png" group-title="Movies",Sky Cinema Hits
+https://a1xs.vip/210002
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sky_Cinema_Select_2020.svg/250px-Sky_Cinema_Select_2020.svg.png" group-title="Movies",Sky Cinema Select
+https://a1xs.vip/210004
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Sky_Cinema_Drama_-_2021_logo.svg/250px-Sky_Cinema_Drama_-_2021_logo.svg.png" group-title="Movies",Sky Cinema Drama
+http://cord-cutter.net:8080/81945791/05013455/35251
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Scifi & Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Sky_Cinema_Sci-Fi_Horror_%28television_channel%29.svg/250px-Sky_Cinema_Sci-Fi_Horror_%28television_channel%29.svg.png" group-title="Movies",Sky Cinema Scifi & Horror
+http://cord-cutter.net:8080/81945791/05013455/35248
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sky_Cinema_Action_-_2021_logo.svg/250px-Sky_Cinema_Action_-_2021_logo.svg.png" group-title="Movies",Sky Cinema Action
+https://a1xs.vip/210006
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Sky_Cinema_Comedy_-_2021_logo.svg/250px-Sky_Cinema_Comedy_-_2021_logo.svg.png" group-title="Movies",Sky Cinema Comedy
+https://a1xs.vip/210005
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sky_Cinema_Family_-_2021_logo.svg/250px-Sky_Cinema_Family_-_2021_logo.svg.png" group-title="Movies",Sky Cinema Family
+https://a1xs.vip/210007
+#EXTINF:-1 tvg-id="464813" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="Movies",FX
+http://143.244.60.30/FX/index.m3u8
+#EXTINF:-1 tvg-id="465032" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/500px-AMC_logo_2019.svg.png" group-title="Movies",AMC
+http://143.244.60.30/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="464882" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Series",Paramount Network
+http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="465285" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/500px-TBS_2020.svg.png" group-title="Series",TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="465006" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Series",USA Network
+http://143.244.60.30/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="465114" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/500px-TNT_%28TV_Channel%29.svg.png" group-title="Series",TNT
+https://a1xs.vip/300001
+#EXTINF:-1 tvg-id="465089" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="Documentary",National Geographic
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="464884" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild
+http://cord-cutter.net:8080/81945791/05013455/11664
+#EXTINF:-1 tvg-id="465364" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Documentary",Discovery Channel
+https://a1xs.vip/300034
+#EXTINF:-1 tvg-id="" tvg-name="Science Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/500px-Science_Channel_2016.png" group-title="Documentary",Science Channel
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="465310" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png" group-title="Documentary",Animal Planet
+https://a1xs.vip/300035
+#EXTINF:-1 tvg-id="465176" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Documentary",History Channel
+http://143.244.60.30/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="465042" tvg-name="Smithsonian Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="Documentary",Smithsonian Channel
+http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="USBD1700001RW" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="Documentary",BBC Earth
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png" group-title="Documentary",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/00ee4f47-16cf-4246-84ae-732b43eb8dfc/0.m3u8?ads.cdn=ak&ads.service_id=USBA3400003IP&ads.ssai_vendor=SSSLIVE&ads.us_privacy=1YNY&pb_type=pb-ehs1glsha1juy_akamai
+#EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://i.imgur.com/M87kbVk.png" group-title="Documentary",Clarity 4K
+https://pb-qyrvophnifz47.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qyrvophnifz47/71de7238-8bc8-4659-b246-1426dec77380/3.m3u8
+#EXTINF:-1 tvg-id="465080" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Music",MTV
+http://143.244.60.30/MTV/index.m3u8
+#EXTINF:-1 tvg-id="465113" tvg-name="MTV 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Music",MTV 2
+http://143.244.60.30/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="464825" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Music",MTV Live
+http://143.244.60.30/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="465198" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
+http://cord-cutter.net:8080/k4Svp2/645504/14197
+#EXTINF:-1 tvg-id="465373" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
+http://cord-cutter.net:8080/k4Svp2/645504/2210
+#EXTINF:-1 tvg-id="465410" tvg-name="ESPNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPNews
+http://cord-cutter.net:8080/k4Svp2/645504/17707
+#EXTINF:-1 tvg-id="465291" tvg-name="Fox Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Sports",Fox Sports 1
+https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="US: FS2" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/500px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
+http://supersonictv.live:8080/live/923429/481252/78937.m3u8
+#EXTINF:-1 tvg-id="464912" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA TV
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="464754" tvg-name="beIN Sports USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Sports",beIN Sports USA
+http://143.244.60.30/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="464754" tvg-name="beIN Sports Xtra" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Sports",beIN Sports Xtra
+https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="444724" tvg-name="EuroSport" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports",EuroSport 4K
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 tvg-id="444724" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/960px-Eurosport_1_Logo_2015.svg.png" group-title="Sports",Eurosport 1
+http://supersonictv.live:8080/live/923429/481252/40451.m3u8
+#EXTINF:-1 tvg-id="444725" tvg-name="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/960px-Eurosport_2_Logo_2015.svg.png" group-title="Sports",Eurosport 2
+http://supersonictv.live:8080/live/923429/481252/40452.m3u8
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sports",Sky Sports Main Event 4K
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="412947" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports",Sky Sports F1 4K
+https://a1xs.vip/2000016
+#EXTINF:-1 tvg-id="6958" tvg-name="Sky Sports Premier League" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="450289" tvg-name="Sky Sports Football" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="Sports",Sky Sports Football
+https://a1xs.vip/2000003
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sports",Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sports",Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sports",Sky Sports Mix
+http://cord-cutter.net:8080/bn80NG/909467/53706
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sports",Sky Sports Cricket
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sports",Sky Sports Golf
+https://a1xs.vip/2000009
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Sports",Sky Sports Tennis
+https://a1xs.vip/2000013
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports+" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png" group-title="Sports",Sky Sports+
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Sports",TNT Sports Ultimate 4K
+https://a1xs.vip/2000031
+#EXTINF:-1 tvg-id="400477" tvg-name="TNT Sports 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports",TNT Sports 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="400480" tvg-name="TNT Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports",TNT Sports 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="400479" tvg-name="TNT Sports 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Sports",TNT Sports 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Sports",TNT Sports 4
+https://7pal.short.gy/tntspts4
